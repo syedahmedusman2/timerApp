@@ -1,0 +1,31 @@
+.timer {
+    text-align: center;
+    /* background-color: aquamarine; */
+    height: 250px;
+    margin-top: 50px;
+    padding-top: 50px;
+    justify-content: center;
+    /* width: 200px; */
+    box-shadow: 10px 7px 24px grey;
+    
+    
+}
+
+.timer-circle {
+    
+}
+
+.button-wrapper {
+    /* max-width: 20px ; */
+    padding: 50;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    box-shadow: 1px 10px 7px 1px grey;
+    margin-top: 60px;
+    background-color: navy;
+    color: white;
+}
